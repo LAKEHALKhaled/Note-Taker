@@ -47,3 +47,5 @@ WHEN you click on the Write icon in the navigation at the top of the page you wi
 
 * `DELETE /api/notes/:id` receive a query parameter that contains the id of a note to delete. To delete a note, we read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
 
+### link to the web app deployed to heroku
+https://polar-anchorage-80453.herokuapp.com/
